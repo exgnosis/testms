@@ -1,15 +1,15 @@
 # Lab 1-1: Hello World
-#### Introduction to Java Course
+#### Introduction to Java
 ---
 ## Lab Objectives
 
-1. To get you up and running in the VM environment you will be using for this course.
+This is a simple warm up lab to get you familiar with the using the Eclipse IDE in the supplied Virtual Machines. If you are already familiar with Eclipse, or are using your own IDE on your own machine, feel free to skip over this lab
 
-2. To run a simple Hello World App in three different ways
+---
 
 ## Part One: The Application
 
-The following is the standard "Hello World" application required by law to be the first exercise done in any introdctory programming class.
+The following is the standard "Hello World" application required by law to be the first exercise done in any introductory programming class.
 
 ```java
 public class HelloWorld {
@@ -19,23 +19,33 @@ public class HelloWorld {
 }
 ```
 
-If you are new to Java it may seem a bit awkward compared to say Python
+If you are new to Java, then the code seem awkwardly verbose compared to other languages. Python, for example
 
 ```python
-    print('Hello World')
+  print('Hello World')
 ```
 
-Bit remember the discussion about how code is packaged up in an OO language: every method or function has to be defined within a class definition. The class HelloWord is just a container for us to put the one line of executable code.
+But remember the discussion about how code is packaged in an OO language - every method or function must be defined within a class definition. 
 
-Python, on the other hand, allows us to declare and use code without having to put it in any sort of container 
+The class HelloWord is just a container where you can put the one line of executable code to ensure that it actually gets executed.
 
-The rest of the Java code will become more clear as we go through the course.
+Python, on the other hand, allows you to declare and use code without having to put it in any sort of container. Neither is right or wrong, Java and Python just represent two different philosophies and subsequent language design choices about how to write code.
 
+In you are new to Java, done't worry about what all the code actually does, that will become more clear as we go through the course.
+
+---
 ## Part Two: Using Eclipse
 
-If you already know how to use Eclipse then you can skip over the setu
+Power up and log into your VM like you did the the walk through. The Eclipse icon should be pinned to the task bar. If not, then just search for it among the apps.
 
-![Opening Screen](images/lab1-1_OpeningScreen.png?raw=true)
+Once you start Eclipse, it will ask you for a workspace and provide you with a default location which is probably the one used to test the installation before class.
+
+You can choose whatever location you want for your workspace. One strategy is to create a working directory at the root of your C:, like `C:\mywork`, then create a new workspace for each module.
+
+Starting a new workspace is shown below:
+
+
+![Eclipse Workspace Selection](images/Lab1-0_Workspace.png?raw=true)
 
 
 This is more text
