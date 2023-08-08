@@ -47,5 +47,7 @@ Starting a new workspace is shown below:
 
 ![Eclipse Workspace Selection](images/Lab1-0_Workspace.png?raw=true)
 
+<img src="images/Lab1-0_Workspace.png?raw=true" width="80%" height="80%">
+
 
 This is more text
