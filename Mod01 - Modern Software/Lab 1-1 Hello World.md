@@ -35,7 +35,7 @@ The rest of the Java code will become more clear as we go through the course.
 
 If you already know how to use Eclipse then you can skip over the setu
 
-![Opening Screen](images/lab1-openingscreen.png?raw=true)
+![Opening Screen](images/lab1-1_OpeningScreen.png?raw=true)
 
 
 This is more text
