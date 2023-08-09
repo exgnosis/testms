@@ -32,8 +32,11 @@ The class HelloWord is just a container where you can put the one line of execut
 Python, on the other hand, allows you to declare and use code without having to put it in any sort of container. Neither is right or wrong, Java and Python just represent two different philosophies and subsequent language design choices about how to write code.
 
 In you are new to Java, done't worry about what all the code actually does, that will become more clear as we go through the course.
+<br/>
 
 ---
+<br/>
+
 ## Part Two: Using Eclipse
 
 ### _Step 1 - Start Eclipse_
@@ -49,6 +52,7 @@ The workspace selection dialogue box is shown below:
 
 ![Eclipse Workspace Selection](images/Lab1-0_Workspace.png?raw=true)
 
+<br/>
 
 ### _Step 2 - Create a Java Project_
 
